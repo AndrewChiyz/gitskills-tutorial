@@ -1,2 +1,4 @@
 This is for feature2 branch test
+Now I am working on feature , but I find a bug, which is "issue-101", needed to be fixed
+So I need to 'stash' my recent working status 
 
