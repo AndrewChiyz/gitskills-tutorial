@@ -1,2 +1,1 @@
-Creating a new branch is quick & simple! "branch main"
-
+Creating a new branch is quick AND simple! "branch main merge with branch dev_feature1"
